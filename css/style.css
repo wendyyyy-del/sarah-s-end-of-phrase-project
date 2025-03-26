@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fsfedqw.artstation.com%2Falbums%2F2954882&psig=AOvVaw2RXk9yI1sQS8J6THjYlPQk&ust=1743076915122000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCkpu3Zp4wDFQAAAAAdAAAAABAK); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.left, .right {
+    width: 100%; 
+    padding: 20px;
+}
+
+.left {
+    background-color: #222;
+    color: white;
+}
+
+.right {
+    background-color: white;
+}
+
+#logo {
+    width: 100px;
+     margin-bottom: 10px;
+}
+
+#search-bar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.product {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+#image-gallery img {
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+}

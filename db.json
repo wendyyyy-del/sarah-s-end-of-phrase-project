@@ -1,0 +1,209 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "brand": "Apple",
+      "price": 1199,
+      "image": "images/iphone14pro.jpg",
+      "description": "6.1-inch Super Retina XDR display, A16 Bionic chip, and a powerful camera system."
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23 Ultra",
+      "brand": "Samsung",
+      "price": 1299,
+      "image": "images/s23ultra.jpg",
+      "description": "6.8-inch Dynamic AMOLED 2X, Snapdragon 8 Gen 2, and 200MP main camera."
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 7 Pro",
+      "brand": "Google",
+      "price": 899,
+      "image": "images/pixel7pro.jpg",
+      "description": "6.7-inch OLED, Google Tensor G2 chip, and enhanced AI-powered camera."
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 11 5G",
+      "brand": "OnePlus",
+      "price": 799,
+      "image": "images/oneplus11.jpg",
+      "description": "6.7-inch Fluid AMOLED, Snapdragon 8 Gen 2, Hasselblad camera system."
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi 13 Pro",
+      "brand": "Xiaomi",
+      "price": 1099,
+      "image": "images/xiaomi13pro.jpg",
+      "description": "6.73-inch LTPO AMOLED, Snapdragon 8 Gen 2, Leica-powered cameras."
+    },
+    {
+      "id": 6,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 7,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 8,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 9,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id" : 10,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 11,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 12,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 13,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 14,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 15,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 16,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 17,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 18,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 19,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 20,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 21,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 22,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 23,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 24,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 25,
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    },
+    {
+      "id": 26,
+      "image": "images/iphone15pro.jpg",
+      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+    }
+  ]
+}
