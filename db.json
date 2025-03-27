@@ -5,7 +5,7 @@
       "name": "iPhone 14 Pro",
       "brand": "Apple",
       "price": 1199,
-      "image": "images/iphone14pro.jpg",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/05/iPhone-14-Pro-Max-Purple.jpg",
       "description": "6.1-inch Super Retina XDR display, A16 Bionic chip, and a powerful camera system."
     },
     {
@@ -13,7 +13,7 @@
       "name": "Samsung Galaxy S23 Ultra",
       "brand": "Samsung",
       "price": 1299,
-      "image": "images/s23ultra.jpg",
+      "image":"https://www.phoneplacekenya.com/wp-content/uploads/2022/06/Samsung-Galaxy-S23-Ultra-5G-b.jpg",
       "description": "6.8-inch Dynamic AMOLED 2X, Snapdragon 8 Gen 2, and 200MP main camera."
     },
     {
@@ -21,7 +21,7 @@
       "name": "Google Pixel 7 Pro",
       "brand": "Google",
       "price": 899,
-      "image": "images/pixel7pro.jpg",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/02/Google-Pixel-7-Pro.jpg",
       "description": "6.7-inch OLED, Google Tensor G2 chip, and enhanced AI-powered camera."
     },
     {
@@ -29,7 +29,7 @@
       "name": "OnePlus 11 5G",
       "brand": "OnePlus",
       "price": 799,
-      "image": "images/oneplus11.jpg",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2023/08/OnePlus-11-5G-Marble-Odyssey.jpg",
       "description": "6.7-inch Fluid AMOLED, Snapdragon 8 Gen 2, Hasselblad camera system."
     },
     {
@@ -37,72 +37,72 @@
       "name": "Xiaomi 13 Pro",
       "brand": "Xiaomi",
       "price": 1099,
-      "image": "images/xiaomi13pro.jpg",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/06/Xiaomi-13-Pro-b.jpg",
       "description": "6.73-inch LTPO AMOLED, Snapdragon 8 Gen 2, Leica-powered cameras."
     },
     {
       "id": 6,
-      "name": "iPhone 15 Pro",
+      "name": "iphone 16 pro",
       "brand": "Apple",
       "price": 1299,
-      "image": "images/iphone15pro.jpg",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2024/04/iPhone-16-Pro-Max-1.jpg",
       "description": "Titanium design, A17 Pro chip, and 48MP camera system."
     },
     {
       "id": 7,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
+      "name": "Vivo X200 Pro 5G",
+      "brand": "vivo",
       "price": 1299,
-      "image": "images/iphone15pro.jpg",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2025/01/vivo-X200-Pro-a.jpg",
       "description": "Titanium design, A17 Pro chip, and 48MP camera system."
     },
     {
       "id": 8,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
+      "name": "Infinix Note 40 Pro+ 5G",
+      "brand": "infinix",
       "price": 1299,
-      "image": "images/iphone15pro.jpg",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2024/03/Infinix-Note-40-Pro-Vintage-Green.jpg",
       "description": "Titanium design, A17 Pro chip, and 48MP camera system."
     },
     {
       "id": 9,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
+      "name": "Oppo Reno13 F 5G",
+      "brand": "Oppo",
       "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2025/02/Oppo-Reno13-F-5G.jpg",
+      "description": "TGraphite Grey, Plume Purple, and Luminous Blue."
     },
     {
       "id" : 10,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
+      "name": "Modio M770 Tablet",
+      "brand": "modio",
       "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2025/02/Modio-M770-Tablet.jpg",
+      "description": "Blue, Green, Pink"
     },
     {
       "id": 11,
-      "name": "iPhone 15 Pro",
+      "name": "Apple iPad Pro 11",
       "brand": "Apple",
       "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/04/iPad-Pro-12.9-2021-a.jpg",
+      "description": "Silver, Space Gray"
     },
     {
       "id": 12,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "Itel A80 4G",
+      "brand": "Itel",
+      "price": 11500 ,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2025/03/Itel-A80-4G.jpg",
+      "description": "Wave Blue, Sandstone Black, and Glacier White"
     },
     {
       "id": 13,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "Itel S25 Ultra 4G",
+      "brand": "Itel",
+      "price": 22500,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2025/01/Itel-S25-Ultra-4G.jpg",
+      "description": "Bromo Black, Mambo Mint, Sahara Gleam"
     },
     {
       "id": 14,
