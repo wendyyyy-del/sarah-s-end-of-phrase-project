@@ -130,43 +130,43 @@
     },
     {
       "id": 17,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "Asus ROG Phone 7",
+      "brand": "ASUS",
+      "price": 138000,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2023/11/Asus-ROG-Phone-7.jpg",
+      "description": "256GB, 512GB  Phantom Black, Storm White."
     },
     {
       "id": 18,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "Samsung Galaxy Tab S9 FE",
+      "brand": "Samsung",
+      "price": 53000,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2023/07/Samsung-Galaxy-Tab-S9-FE-1.jpg",
+      "description": "Mint, Silver, Gray, Lavender Android 13, One UI 5.1"
     },
     {
       "id": 19,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "PlayStation 5 DualSense Wireless Controller",
+      "brand": "sony",
+      "price": 10500,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2023/12/PlayStation-5-DualSense-Wireless-Controller.jpg",
+      "description": "Built-in microphone"
     },
     {
       "id": 20,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "Xbox Series X",
+      "brand": "X-box",
+      "price": 64000,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2024/01/Xbox-Series-X-1.jpg",
+      "description": "True 4K Gaming Resolution Up to 8K HDR 4K UHD Blu-Ray Dolby TrueHD with Atmos and HDMI supported"
     },
     {
       "id": 21,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "JBL Quantum 300 Headphones",
+      "brand": "JBL",
+      "price": 9500,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/11/JBL-Quantum-300-a.jpg",
+      "description": " Adjustable Boom, Left Earpiece Frequency Response of  20 Hz to 20 kHz"
     },
     {
       "id": 22,
