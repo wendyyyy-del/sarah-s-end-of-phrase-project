@@ -207,6 +207,113 @@
       "price": 48000,
       "image":"https://pictures-kenya.jijistatic.com/11604982_2a3e05fb-6b57-4977-9745-fb129019836c_1_960x1280.webp",
       "description": "sony ps4 slim 1tb console system tested in good pre-owned working condition"
+    },
+    
+     {
+          "id": 27,
+          "name": "iPhone 12",
+          "brand": "Apple",
+          "price": 44500,
+          "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/01/Apple-iPhone-12-purple.jpg",
+          "description": "A14 Bionic chip, Super Retina XDR display."
+     },
+     {
+          "id": 28,
+          "name": "Samsung Galaxy S21",
+          "brand": "Samsung",
+          "price": 999,
+          "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/01/Samsung-Galaxy-S21-5G-c.jpg",
+          "description": "Dynamic AMOLED 2X, Exynos 2100."
+     },
+     {
+          "id": 29,
+          "name": "Google Pixel 7",
+          "brand": "Google",
+          "price": 46500,
+          "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/02/Google-Pixel-7.jpg",
+          "description": "Google Tensor chip, best-in-class AI camera."
+     },
+     {
+          "id": 30,
+          "name": "OnePlus 9 Pro",
+          "brand": "OnePlus",
+          "price": 82000,
+          "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/02/OnePlus-9-Pro.jpg",
+          "description": "120Hz AMOLED, Snapdragon 888, Hasselblad Camera."
+     },
+     {
+          "id": 31,
+          "name": "iPhone 13 Pro",
+          "brand": "Apple",
+          "price": 70000,
+          "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/07/Apple-iPhone-13-Pro.jpg",
+          "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+     },
+     {
+          "id": 32,
+          "name": "Samsung Galaxy Z Fold 5",
+          "brand": "Samsung",
+          "price": 1799,
+          "image": "https://www.phoneplacekenya.com/wp-content/uploads/2023/07/Samsung-Galaxy-Z-Fold-5.jpg",
+          "description": "Foldable screen, Snapdragon 8 Gen 2, S Pen support."
+     },
+     {
+          "id": 33,
+          "name": "Xiaomi Mi 13 Ultra",
+          "brand": "Xiaomi",
+          "price": 899,
+          "image": "https://www.phoneplacekenya.com/wp-content/uploads/2023/04/Xiaomi-13-Ultra.jpg",
+          "description": "Leica-tuned cameras, Snapdragon 8 Gen 2, 1-inch sensor."
+     },
+     {
+         "id": 34,
+         "name": "Alienware m15 R7",
+          "brand": "Dell",
+         "price": 2199,
+         "image": "https://m.media-amazon.com/images/I/71dDvEwSqoL._AC_SL1500_.jpg",
+         "description": "Gaming laptop with Intel i9, NVIDIA RTX 3080, 15.6-inch display."
+    },
+    {
+         "id": 35,
+         "name": "Razer Blade 15",
+          "brand": "Razer",
+         "price": 1999,
+         "image": "https://m.media-amazon.com/images/I/61VH+D47buL._AC_SL1500_.jpg",
+         "description": "High-performance gaming laptop, sleek design, RTX 3070."
+    },
+    {
+         "id": 36,
+         "name": "Nintendo Switch OLED",
+         "brand": "Nintendo",
+         "price": 349,
+         "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/c_fill,w_800/ncom/en_US/switch/site-design-update/hardware-hero-combo",
+         "description": "Vibrant OLED display, improved speakers, and docked TV mode."
+    },
+    {
+         "id": 37,
+          "name": "Steam Deck",
+          "brand": "Valve",
+          "price": 399,
+         "image": "https://m.media-amazon.com/images/I/517iqqt5RdL.jpg",
+         "description": "Portable PC gaming powered by SteamOS and AMD APU."
+    },
+    {
+         "id": 38,
+         "name": "ROG Ally",
+          "brand": "ASUS",
+          "price": 699,
+         "image": "https://dlcdnwebimgs.asus.com/files/media/92A296C4-BA56-40C2-A462-AE2729261A0B/main/v2/images/large/1x/pic_kv.webp",
+         "description": "Windows-powered handheld gaming device with high refresh rate."
+    },
+    {
+         "id": 39,
+         "name": "Meta Quest 3",
+         "brand": "Meta",
+         "price": 67000,
+         "image": "https://www.phoneplacekenya.com/wp-content/uploads/2023/11/Meta-Quest-3-a.jpg",
+         "description": "VR headset with mixed reality capabilities and improved resolution."
     }
-  ]
-}
+   ]
+   }
+    
+  
