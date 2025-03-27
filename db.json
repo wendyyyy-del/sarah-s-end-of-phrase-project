@@ -106,27 +106,27 @@
     },
     {
       "id": 14,
-      "name": "iPhone 15 Pro",
+      "name": "Apple Imac",
       "brand": "Apple",
       "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "image": "https://nairobicomputershop.co.ke/media/cache/d4/75/d475648df4460dce74f4c5008ddb9eef.jpg",
+      "description": "grey 3.1GHz 6-core 10th-generation Intel Core i5 processor that has a Turbo Boost of up to 4.5GHz."
     },
     {
       "id": 15,
-      "name": "iPhone 15 Pro",
+      "name": "Apple MacBook Pro 16'' Laptop,",
       "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "price": 330000,
+      "image": "https://nairobicomputershop.co.ke/media/cache/dd/a2/dda2adba18e38bd6bb8360b8d627e291.jpg",
+      "description": "Apple MacBook Pro M1 Pro chip 10-core CPU with 8 performance cores and 2 efficiency cores,"
     },
     {
       "id": 16,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "Oraimo Traveler 12 20000mAh 12W Power Bank",
+      "brand": "oraimo",
+      "price": 5000,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2025/03/Oraimo-Traveler-12-20000mAh-12W-Power-Bank.jpg",
+      "description": "Type-C (IN/OUT)12W Smart Fast Charging"
     },
     {
       "id": 17,
@@ -170,40 +170,43 @@
     },
     {
       "id": 22,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
+      "name": "New Laptop HP EliteBook 830 G5 8GB Intel Core I5 SSD 256GB",
+      "brand": "HP",
       "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "image": "https://pictures-kenya.jijistatic.com/72826379_MzAwLTQwMC1lZTU5NGY2MWIx.webp",
+      "description": "Boxed Hp 830 g5, core i5, 7th gen, 8gb ram, 256gb ssd"
     },
     {
       "id": 23,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "Philips Essence 20",
+      "brand": "Philips",
+      "price": 2600,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2024/10/Philips-Essence-20-S6310.jpg",
+      "description": " Moonlight Black, Starry Blue Dual SIM, 4G LTE, fingerprint sensor, face unlock."
     },
     {
       "id": 24,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "Nintendo Wii Console, Black",
+      "brand": "Nintendo",
+      "price": 57002,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Vj3nj5+VL._UL1200_.jpg",
+      "description": "Black"
     },
     {
       "id": 25,
-      "name": "iPhone 15 Pro",
-      "brand": "Apple",
-      "price": 1299,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "playstation 5",
+      "brand": "sony",
+      "price": 62000,
+      "image": "https://pictures-kenya.jijistatic.com/73021045_MTYwMC0xNTU4LTliZTAzMTI1NTEtMQ.webp",
+      "description":"Sony PlayStation 5 Console 1TB PS5 Slim Standard Edition With 1 Extra Controller and GTA V Game"
     },
     {
       "id": 26,
-      "image": "images/iphone15pro.jpg",
-      "description": "Titanium design, A17 Pro chip, and 48MP camera system."
+      "name": "playstation 4",
+      "brand": "sony",
+      "price": 48000,
+      "image":"https://pictures-kenya.jijistatic.com/11604982_2a3e05fb-6b57-4977-9745-fb129019836c_1_960x1280.webp",
+      "description": "sony ps4 slim 1tb console system tested in good pre-owned working condition"
     }
   ]
 }
