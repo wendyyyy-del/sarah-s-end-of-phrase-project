@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,8 @@
 
             <h1>ABOUT</h1>
             <p>From Fiction to Reality: Inspector Gadget-Inspired Inventions You Can Own Today</p>
-
+            <h2>Shopping Cart</h2>
+             <ul id="cart"></ul>
             <h3>Contact Me</h3>
             <h3>Business Hours</h3>
             <ul>
@@ -28,6 +29,19 @@
                 <li>Saturday - Sunday: Closed</li>
             </ul>
         </nav>
+        <h2>Add New Product</h2>
+<form id="add-product-form">
+    <input type="text" id="phone-name" placeholder="Product Name" required>
+    <input type="text" id="phone-brand" placeholder="Brand" required>
+    <input type="number" id="phone-price" placeholder="Price" step="0.01" required>
+    <input type="text" id="phone-image" placeholder="Image URL" required>
+    <textarea id="phone-description" placeholder="Description" required></textarea>
+    <button type="submit">Add Product</button>
+</form>
+
+<h2>Shopping Cart</h2>
+<ul id="cart"></ul>
+
 
         
         <main class="right">
