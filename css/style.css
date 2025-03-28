@@ -1,8 +1,15 @@
+header {
+    text-align: center;
+    color: white;
+    background-color: black; 
+    padding: 20px;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image:url(https://cdna.artstation.com/p/assets/images/images/012/242/164/medium/patrick-horan-ig2-302b-mat-ear-extarticresearchstation-v02-matte.jpg?1533772717);
+    background-image:url(https://www.zmo.ai/wp-content/uploads/2023/09/beautiful-abstract-color-pink-texture-background-on-white-surface-granite-orange-and-pink-cloud-sky-min.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -39,12 +46,13 @@ body {
     gap: 20px;
     padding: 20px;
 }
-
 .product {
-    background-color: white;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    height: 520px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     text-align: center;
 }
 
